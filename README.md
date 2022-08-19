@@ -81,9 +81,7 @@ Play the famous minesweeper puzzle game.
 <details><summary>Results: (click here to open)</summary>
 <p>
 
-![image](https://user-images.githubusercontent.com/96302110/184554712-017d3aab-cda2-4823-992f-952d9c04af86.png)
-
-![image](https://user-images.githubusercontent.com/96302110/184555250-3b904bc0-0752-48f7-9e28-22e20ff6e309.png)
+![image](https://user-images.githubusercontent.com/96302110/185715231-b8473ca3-27c6-47b5-8928-288c38f65575.png)
 
 </p>
 </details>
