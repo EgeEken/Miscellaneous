@@ -85,3 +85,15 @@ Play the famous minesweeper puzzle game.
 
 </p>
 </details>
+
+## [Snake](https://github.com/EgeEken/Snake)
+
+Play snake with customizable map size and game speed.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![Snake gameplay (2)](https://user-images.githubusercontent.com/96302110/190721748-cf02d6f6-521d-43e4-94df-17f31a90965c.gif)
+
+</p>
+</details>
