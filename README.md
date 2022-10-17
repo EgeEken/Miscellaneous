@@ -99,7 +99,7 @@ Play snake with customizable map size and game speed.
 </details>
 
 
-## [Reaction Time Tets](https://github.com/EgeEken/Reaction)
+## [Reaction Time Test](https://github.com/EgeEken/Reaction)
 
 Measures your reaction time.
 
@@ -108,6 +108,18 @@ Measures your reaction time.
 
 
 ![reaction time gameplay fix](https://user-images.githubusercontent.com/96302110/195985409-5692d1ed-3abd-4a85-bd95-c5d28024be7c.gif)
+
+</p>
+</details>
+
+## [Sequence Memory Test](https://github.com/EgeEken/Sequence)
+
+Measures your sequence memory.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![sequence](https://user-images.githubusercontent.com/96302110/196301263-31e1ed65-89d0-48f2-b758-50373a658580.gif)
 
 </p>
 </details>
