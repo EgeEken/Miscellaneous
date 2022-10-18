@@ -123,3 +123,15 @@ Measures your sequence memory.
 
 </p>
 </details>
+
+## [Aim Trainer](https://github.com/EgeEken/Aim)
+
+Measures your aiming speed.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![Aim](https://user-images.githubusercontent.com/96302110/196504214-85d8775a-e413-4084-919b-cc26d1671a84.gif)
+
+</p>
+</details>
