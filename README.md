@@ -135,3 +135,15 @@ Measures your aiming speed.
 
 </p>
 </details>
+
+## [Visual Memory Test](https://github.com/EgeEken/Visual)
+
+Measures your visual memory.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![visual memory gameplay_Trim](https://user-images.githubusercontent.com/96302110/196817239-f9d0f27a-9d6b-4f45-92cf-a2c9b146aa92.gif)
+
+</p>
+</details>
